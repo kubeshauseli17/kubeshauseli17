@@ -1,5 +1,7 @@
 <!--
-Former Electricial tradesman transitioning into the white collar world. Excited to take the problem solving and team work skills I honed in the trades into software.
+**kubeshauseli17/kubeshauseli17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- Former Electricial tradesman transitioning into the white collar world. Excited to take the problem solving and team work skills I honed in the trades into software.
 
 - 🔭 I’m currently working on:
 Restyling my portfolio to make it mobile friendly, also a Docker Node.js, Postgres, Sequelize environment for revamping an older project of mine.
