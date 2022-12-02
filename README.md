@@ -13,8 +13,8 @@ Anything... I'd love to gain the experience working on something new and interes
 1990's Alt Rock, Japanese Import Cars, Soldering, Retro Consoles or Vintage Electronics, Mycology (Mushrooms), DIY Home Improvement, Gardening, Software Engineering,
 
 - 📫 How to reach me: 
-LinkedIn - https://www.linkedin.com/in/elijah-kubes-196432248/
-Email - kubeshauseli17@gmail.com
+- LinkedIn - https://www.linkedin.com/in/elijah-kubes-196432248/
+- Email - kubeshauseli17@gmail.com
 
 - ⚡ Fun fact: I build and modify cars as a hobby. I specialize in swapping modern engines into older cars and wiring them into the existing harness.
 
